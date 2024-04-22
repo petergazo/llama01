@@ -2,9 +2,11 @@
 
 https://swharden.com/blog/2023-07-29-ai-chat-locally-with-python/
 
-<code>conda create llama-env01 pip
-conda activate llama-env01
-codna pip install llama-cpp-python</code>
+
+> [!CODE]
+> conda create llama-env01 pip
+> conda activate llama-env01
+> codna pip install llama-cpp-python
 
 > [!NOTE]
 > C/C++ compiler needs to be installed on system for llama-cpp-python to install correctly - use fo example MSFT
